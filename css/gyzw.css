@@ -1,0 +1,153 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-color: #f7f7f7;
+}
+
+/*导航栏*/
+.box1{
+	height: 50px;
+	background-color: #000;
+}
+.box1 .box1_div{
+	width: 1200px;
+	margin: 0px auto;
+}
+.box1 img{
+	width: 50;
+	height: 50;
+	display: block;
+	float: left;
+}
+.box1 li{
+	float: left;
+}
+.box1 ul{
+	list-style: none;
+}
+.box1 li a{
+	display: block;
+	padding: 12px 20px;
+	text-decoration: none;
+	color: #fff;
+	font-size: 16px;
+	font-family: 思源黑体 CN;
+}
+.box1 li .box1_li{
+	margin-left: 206px;
+}
+
+/*banner*/
+.box2{
+	width: 100%;
+	height: 300px;
+}
+.box2 img{
+	width: 100%;
+	height: 300px;
+}
+
+/*内容*/
+.box3{
+	height: 606px;
+}
+.box3 .box3_1{
+	width: 1200px;
+	margin: 0 auto;
+}
+.box3 .box3_1 h1{
+	padding-top: 70px;
+	padding-bottom: 50px;
+	text-align: center;
+	color: #01980c;
+	font-size: 40px;
+}
+.box3 .box3_1 .box3_1_1{
+	float: left;
+	height: 432px;
+	width: 600px;
+}
+.box3 .box3_1 .box3_1_2{
+	margin-left: 80px;
+	height: 432px;
+	width: 518px;
+	float: left;
+	margin-top: 80px;
+}
+.box3 .box3_1 .box3_1_2 p{
+	font-size: 18px;
+	text-indent: 36px;
+	letter-spacing: 3px;
+	line-height: 32px;
+}
+
+/*内容2*/
+.box4{
+	/*float: left;*/
+	/*background-color: #456;*/
+	margin-top: 50px;
+}
+.box4 .box4_1{
+	width: 1200px;
+	margin: 0 auto;
+	/*background-color: #777;*/
+}
+.box4 .box4_1 h3{
+	margin-top: 30px;
+	font-size: 32px;
+	font-weight: 300;
+}
+.box4 .box4_1 p{
+	margin-top: 20px;
+	font-size: 14px;
+	text-indent: 28px;
+	letter-spacing: 3px;
+	line-height: 28px;
+}
+
+/*脚本*/
+.box5{
+	width: 100%;
+	height: 500px;
+	margin-top: 60px;
+	float: left;
+	background-color: #000;
+}
+.box5 .box5_1{
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 80px;
+	margin-bottom: 100px;
+	/*background-color: #456;*/
+}
+.box5 .box5_1 p{
+	text-align: center;
+	font-size: 60px;
+	color: #fff;
+	font-weight: 200;
+}
+.box5 .box5_2{
+	width: 1200px;
+	margin: 0 auto;
+	
+}
+.box5 .box5_2 .box5_2_1{
+	width: 398px;
+	border-left: 1px solid #fff;
+	float: left;
+	/*background-color: #123;*/
+}
+.box5 .box5_2 .box5_2_1 ul{
+	list-style: none;
+}
+.box5 .box5_2 .box5_2_1 li p{
+	margin-left: 30px;
+	color: #fff;
+	font-size: 18px;
+	margin-top: 20px;
+	margin-bottom: 24px;
+	letter-spacing: 3px;
+	font-weight: 200;
+}
